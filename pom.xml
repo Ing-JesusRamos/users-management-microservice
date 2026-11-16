@@ -20,7 +20,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!-- Versiones de dependencias no gestionadas por el BOM de Spring Boot -->
     <lombok.version>1.18.36</lombok.version>
-    <mysql.connector.version>9.3.0</mysql.connector.version>
+    <mysql.connector.version>9.7.0</mysql.connector.version>
     <resilience4j.version>2.2.0</resilience4j.version>
     <bcrypt.version>0.10.2</bcrypt.version>
     <jjwt.version>0.13.0</jjwt.version>
